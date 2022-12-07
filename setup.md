@@ -12,6 +12,8 @@ Pour cela, d'abord on installe l'application "Tweaks" (disponible sur l'applicat
 [Ant](https://www.gnome-look.org/p/1099856)
 [Mac Os Big Sur](https://github.com/vinceliuice/WhiteSur-gtk-theme)
 
+La commande pour big sur : `sudo ./tweaks.sh -g -n -b "windows.jpg"` avec windows.jpg le fond d'écran.
+
 ### Applications 
 Certaines applications sont souvent carrées à installer. 
 On essaie le plus possible d'éviter d'installer avec `snap` car il y a souvent des problèmes lorsque l'on importe des fichiers et avec les polices. 
